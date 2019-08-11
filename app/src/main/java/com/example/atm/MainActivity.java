@@ -23,7 +23,7 @@ import com.google.android.material.snackbar.Snackbar;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//導入Firebase、危險權限、讀取聯絡人、SQLite、執行緒(AsyncTask)、讀取解析JSON
 public class MainActivity extends AppCompatActivity {
 
     private static final int REQUEST_LOGIN = 100;
